@@ -1,0 +1,10 @@
+Flask==2.1.0
+Flask-SQLAlchemy
+psycopg2-binary
+pandas
+joblib
+scipy
+numpy
+sklearn_pandas
+qdrant-client
+sentence-transformers
